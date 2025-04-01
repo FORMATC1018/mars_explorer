@@ -6,3 +6,5 @@ flask_wtf
 flask_restful
 werkzeug.security
 sqlalchemy_serializer
+alembic
+WTForms
